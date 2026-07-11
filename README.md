@@ -23,4 +23,4 @@
 - Email: canoyhail32@gmail.com
 
 ## Social Links
-https://tip.instructure.com/profile
+Canvas: https://tip.instructure.com/profile
