@@ -1,0 +1,27 @@
+# CPE 031 - CPE21S1 - Visualizations and Data Analysis - Canoy
+- Proffesor: Engr. Jimlord Quejado
+
+<img src="https://github.com/haillluuuu/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Canoy/blob/e831c03387b12759867bdc119539299848536af3/Green%20Emerald%20Chalkboard%20Math%20Group%20Project%20Presentation.jpg" width="300" alt="My Image">
+
+> This repository was created as a requirement for the course CPE 031 - Visualizations and Data Analysis for laboratories, activities, and other submissions.
+
+## Student Information
+- Name: Canoy Hail B.
+- Section: CPE21S1
+- City: Cainta
+
+## Hobbies and Interest
+- Boxing
+- Weight Lifting
+- Piano
+- Guitar
+- Video Games
+- Aquascaping
+- Turtles, Fishes, Pets
+
+## Contact Information
+- Number: 09083927682
+- Email: canoyhail32@gmail.com
+
+## Social Links
+Canvas: https://tip.instructure.com/profile
